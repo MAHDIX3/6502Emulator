@@ -1,4 +1,4 @@
-Copyright (c) 2025 Mahdi Zakariyazadeh 
+Copyright (c) 2025 Mahdi ZK 
 
 # 6502Simulator Simple With High Accuracy
 
