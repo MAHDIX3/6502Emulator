@@ -1,5 +1,16 @@
-Copyright (c) 2025 Mahdi ZK 
-
-# 6502Simulator Simple With High Accuracy
-
+ # 6502Simulator Simple With High Accuracy
 A Simple With high accuracy 6502 CPU simulator for use in retro systems like the Atari 2600, Apple II, NES, Commodore 64, and more.
+
+
+# 6502Emulator
+A minimal and clean 6502 CPU emulator written in C/C++/C+!
+Supports basic opcode execution, simple memory model, and is easy to understand for learning or integration into retro systems.
+
+## Features
+- Clean, readable code
+- Minimal dependencies
+- Good starting point for NES, Apple II, etc.
+
+## Author
+Mahdi ZK 
+Copyright (c) 2025
