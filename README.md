@@ -14,6 +14,6 @@ Supports basic opcode execution, simple memory model, and is easy to understand 
 ## Author
 Mahdi ZK 
 Copyright (c) 2025
+Email : mahdi07860@gmail.com
 
-Email : mahdi07860@gmail.com.
-donate MetaMask eth : 0x178896e2fbec0701f0890738a203549F1E4376a4
+Donate MetaMask eth : 0x178896e2fbec0701f0890738a203549F1E4376a4
